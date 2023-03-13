@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto consiste em uma Single Page Aplication(SPA).
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://spauniverse-raulrodmo.netlify.app/)
 
 ## 🔖 Layout
 
