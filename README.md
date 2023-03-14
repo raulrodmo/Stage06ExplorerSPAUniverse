@@ -1,4 +1,4 @@
-<h1 align="center"> Jogo de adivinhação </h1>
+<h1 align="center"> SPA UNIVERSE </h1>
 
 <p align="center">
 Repositório do desafio SPA Universe do stage 06 da turma 09 do explorer, o objetivo era criar uma Single Page Aplication(SPA). <br/>
